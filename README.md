@@ -2,6 +2,7 @@
 > ![image](https://user-images.githubusercontent.com/69976409/195754514-06dcba6c-7ea4-42da-a3d8-8f334194c1f8.png)
 # Blackjack Project
 Approach to Blackjack by Jack Johnson & Kelsey Peltz
+### [Website Link](https://kelseypeltz.github.io/blackjackproject.github.io/)
 <details open="open">
 <summary>Table of Contents</summary>
 
@@ -29,6 +30,5 @@ We have set up a google colab to work on our code together. Since we are partner
 ## ETL 
 ### (Extract, Transform, and Load)
 Currently we are coding a blackjack simulation that will run the game thousands of times using different strategies since the data source we had been hoping to use was too large for github. We are hoping to somehow upload the data from [here](https://www.kaggle.com/datasets/mojocolors/900000-hands-of-blackjack-results) to get more insights the average player. In the meantime, we found a smaller dataset to begin analyzing. We also compiled  to help us understand blackjack basic strategy (a.k.a. the book) and the "typical" human strategy so we can compare those with the counting card strategies.  
-
 
 
