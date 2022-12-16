@@ -25,10 +25,7 @@ Blackjack is the most popular casino banking game in the world. In blackjack, th
 Here is a chart of Edward Thorp's basic strategy taken from [Blackjackinfo.com](https://www.blackjackinfo.com/blackjack-basic-strategy-engine/). The strategy tells players when to hit (H), stand (S), split (P), and double (D/DS) according to the the sum or combination of their hand and the dealer's known upcard.
 
 
-
-
-
-<img src="data/Screen Shot 2022-12-15 at 11.06.27 AM.png">
+> ![image](https://github.com/kelseypeltz/blackjackproject.github.io/blob/cee1b2dec704604b437a8b0cc6b11fe9fcb9fa3b/data/Screen%20Shot%202022-12-15%20at%2011.06.27%20AM.png)
 ## Collaboration Plan 
 
 We have set up a google colab to work on our code together. Since we are partnering this project with our Capstone project, we plan on meeting on a weekly to bi-weekly schedule our faculty mentor. We plan on dividing work by doing independent research and coding and discussing it during our scheduled meetings and throughout the week as needed. 
